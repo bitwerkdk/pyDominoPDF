@@ -2,6 +2,10 @@
 
 Hosted version: https://browncowww.pythonanywhere.com
 
+Lamination experiments: https://www.youtube.com/watch?v=Y9RbVqf5Vis
+* Glueing: Tacky spray
+* Removing glare: Matte spray
+
 A simple Python script that generates printable fidicuals used by the [Shaper Origin CNC router](https://www.shapertools.com/en-us/). This project is not affiliated with Shaper Tools.
 
 ## Prerequisites
